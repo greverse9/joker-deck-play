@@ -1,0 +1,16 @@
+{
+  "name": "Joker Deck — 로그라이크 포커 덱빌더",
+  "short_name": "Joker Deck",
+  "description": "웹 브라우저에서 즐기는 로그라이크 포커 덱빌딩 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#11241f",
+  "theme_color": "#1b2a2f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
