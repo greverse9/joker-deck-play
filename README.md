@@ -9,4 +9,4 @@
 - 비공식 팬 제작 게임이며 다른 게임의 코드·그래픽·사운드·문구를 사용하지 않습니다.
   Unofficial fan-made game; contains no code, art, audio, or text from any other game.
 
-Build: v0.10.0 (32124eb)
+Build: v0.11.0 (4212569)
